@@ -1,7 +1,7 @@
 # voice-classification
 ## 实现内容
 
-基于CNN的音频鉴黄网络
+基于CNN的音频分类
 
 ## 所需环境
 
